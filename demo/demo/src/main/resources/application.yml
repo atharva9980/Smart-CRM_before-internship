@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/crm_db
+    username: admin
+    password: password
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        options:
+          model: llama3
