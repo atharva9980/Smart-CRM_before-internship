@@ -1,4 +1,4 @@
-readme_content = """# 🚀 SmartCRM: AI-Powered Support Triaging System
+ 🚀 SmartCRM: AI-Powered Support Triaging System
 
 ## ⚠️ The Real-World Problem
 Modern customer service teams are drowning in unprioritized support tickets. In a traditional queue, a critical issue (e.g., "Production server is down and we are losing money") is often placed behind ten low-priority requests (e.g., "How do I change my avatar?"). 
